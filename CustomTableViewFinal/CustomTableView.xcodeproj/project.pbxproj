@@ -109,12 +109,12 @@
 		F48E964A1692E6AF0054278A /* CustomTableView */ = {
 			isa = PBXGroup;
 			children = (
-				F48E96671692E6DF0054278A /* images */,
 				F48E96531692E6AF0054278A /* AppDelegate.h */,
 				F48E96541692E6AF0054278A /* AppDelegate.m */,
 				F48E965C1692E6AF0054278A /* MainStoryboard.storyboard */,
 				F48E967A1692E75E0054278A /* CCViewController.h */,
 				F48E967B1692E75E0054278A /* CCViewController.m */,
+				F48E96671692E6DF0054278A /* images */,
 				F48E964B1692E6AF0054278A /* Supporting Files */,
 			);
 			path = CustomTableView;
